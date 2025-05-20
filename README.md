@@ -16,7 +16,6 @@
 
 <!-- You can use GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=oneandhalffeet&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oneandhalffeet&layout=compact&theme=tokyonight)
 
 ## Skills
 
